@@ -1,0 +1,18 @@
+D:/Users/Thomas/Desktop/g02_SIG_CH_MAJ.vht {1 {vcom -work work -2002 -explicit -stats=none D:/Users/Thomas/Desktop/g02_SIG_CH_MAJ.vht
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g02_SIG_CH_MAJ_vhd_tst
+-- Compiling architecture g02_SIG_CH_MAJ_arch of g02_SIG_CH_MAJ_vhd_tst
+
+} {} {}} D:/Users/Thomas/Desktop/g02_SIG_CH_MAJ.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Users/Thomas/Desktop/g02_SIG_CH_MAJ.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g02_SIG_CH_MAJ
+-- Compiling architecture implementation of g02_SIG_CH_MAJ
+
+} {} {}}
