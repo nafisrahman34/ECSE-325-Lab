@@ -105,7 +105,7 @@ E_o <= x"00000642";
 F_o <= x"AA000000";
 G_o <= x"80000001";
 WAIT FOR 5 ns;   
-for i in 0 to 24 loop
+FOR i IN 0 TO 24 LOOP
 	A_o <= SIG0;
 	B_o <= B_o; 
 	C_o <= SIG1;
@@ -113,7 +113,8 @@ for i in 0 to 24 loop
 	F_o <= F_o;
 	G_o <= CH;
 	WAIT FOR 5 ns;
-end loop;                                                     
+END LOOP;
+--WAIT;                                                     
 END PROCESS always;                                          
 END g02_SIG_CH_MAJ_arch;
 
