@@ -1,0 +1,20 @@
+Fitter Status : Failed - Wed Mar 13 19:07:22 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : g02_SIG_CH_MAJ
+Top-level Entity Name : g02_SIG_CH_MAJ
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 65 / 32,070 ( < 1 % )
+Total registers : 0
+Total pins : 320 / 457 ( 70 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 4,065,280 ( 0 % )
+Total RAM Blocks : 0 / 397 ( 0 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

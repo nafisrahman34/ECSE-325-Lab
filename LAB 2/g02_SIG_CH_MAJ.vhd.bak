@@ -26,7 +26,7 @@ begin
 
     SIG_1 : process (E_o)
     begin
-        SIG1 <= (E_o(26 downto 0) & E_o(31 downto 27)) xor (E_o(20 downto 0) & E_o(25 downto 21)) xor (E_o(7 downto 0) & E_o(10 downto 8)); 
+        SIG1 <= (std_logic_vector(rotate_right(unsigned(E_o), 6)) xor std_logic_vector(rotate_right(unsigned(E_o), 11))) xor (std_logic_vector(rotate_right(unsigned(E_o), 25)));
     end process;
 
     CH_FUNC : process (E_o, F_o, G_o)

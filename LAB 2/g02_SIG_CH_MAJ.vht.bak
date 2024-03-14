@@ -112,7 +112,7 @@ for i in 0 to 24 loop
 	E_o <= MAJ;
 	F_o <= F_o;
 	G_o <= CH;
-	WAIT FOR 5 ns;
+	WAIT for 5ns;
 end loop;                                                     
 END PROCESS always;                                          
 END g02_SIG_CH_MAJ_arch;

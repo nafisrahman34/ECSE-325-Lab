@@ -1,5 +1,5 @@
 --
--- entity name: g02_SIG_CH_MAJ (replace “NN” by your group’s number)
+-- entity name: g02_SIG_CH_MAJ (replace ?NN? by your group?s number)
 --
 -- Version 1.0
 -- Authors: Thomas Dormart, Nafis Rahman, Mohammad Junaid
